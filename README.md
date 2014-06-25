@@ -21,4 +21,4 @@ Following fields need to be added in every row:
 | Description | *optional* Additional Text to describe this Phase - for example if Phase is only available for special region |
 
 ### Sample
-A simple file could be found [here](https://raw.githubusercontent.com/ntldstats/ntldstats_launch/master/sample.csv).
+A sample file could be found [here](https://raw.githubusercontent.com/ntldstats/ntldstats_launch/master/sample.csv).
