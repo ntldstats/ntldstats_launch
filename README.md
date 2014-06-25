@@ -1,5 +1,5 @@
-Sample Data for generic TLD Launch Informations
-===============================================
+generic TLD Launch Informations
+===============================
 
 We would like to simplify the process of announcing new launching TLDs and their individual launch phases by defining a general file format for public exchange.
 
